@@ -7,5 +7,5 @@ function hello()
 
 exports.hello = hello;
 
-let hello = require('helloworld.js')
-let output = hello.hello()
+// let hello = require('helloworld.js')
+// let output = hello.hello()
